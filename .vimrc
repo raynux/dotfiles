@@ -36,6 +36,7 @@ filetype plugin indent on     " required!
 filetype indent on
 syntax on
 set directory=~/.vim/tmp
+set undodir=~/.vim/tmp
 set mouse=a
 
 let g:neocomplcache_enable_at_startup = 1
