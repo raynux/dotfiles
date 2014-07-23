@@ -1,0 +1,12 @@
+VimClojure
+neobundle.vim
+neocomplcache
+neosnippet
+syntastic
+unite.vim
+vim-coffee-script
+vim-slime
+vim-smartinput
+vim-smartinput-endwise
+vimproc
+vimshell
