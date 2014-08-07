@@ -68,3 +68,7 @@ export PATH="/usr/local/heroku/bin:$PATH"
 
 # direnv
 eval "$(direnv hook $0)"
+
+# nvm
+source $(brew --prefix nvm)/nvm.sh
+export NVM_DIR=~/.nvm
